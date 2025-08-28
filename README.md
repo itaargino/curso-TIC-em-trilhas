@@ -5,9 +5,9 @@ Criado para armazenamento dos códigos e anotações desenvolvidas durante curso
 - Pensamento Computacional em Python
 - Fundamentos de Orientação a Objetos
 
-### Notas
+## Anotações
 
-##### Pensamento Computacional em Python
+### Pensamento Computacional em Python
 
 [Módulo 1](https://github.com/itaargino/curso-TIC-em-trilhas/blob/main/anota%C3%A7%C3%B5es/TIC%20-%20%20Pensamento%20Computacional/M%C3%B3dulo%201%20-%20Fundamentos%20de%20pensamento%20computacional%20e%20versionamento.md)
 
@@ -15,7 +15,7 @@ Criado para armazenamento dos códigos e anotações desenvolvidas durante curso
 
 [Módulo 3](https://github.com/itaargino/curso-TIC-em-trilhas/blob/main/anota%C3%A7%C3%B5es/TIC%20-%20%20Pensamento%20Computacional/M%C3%B3dulo%203%20-%20Criando%20um%20programa%20do%20zero.md)
 
-##### Fundamentos de Orientação a Objetos
+### Fundamentos de Orientação a Objetos
 
 [Módulo 1](https://github.com/itaargino/curso-TIC-em-trilhas/blob/main/anota%C3%A7%C3%B5es/TIC%20-%20Fundamentos%20de%20Orienta%C3%A7%C3%A3o%20a%20Objeto/M%C3%B3dulo%201%20-%20Conceitos%20de%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos.md)
 
