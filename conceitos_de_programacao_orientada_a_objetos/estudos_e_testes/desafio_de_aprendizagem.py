@@ -15,13 +15,8 @@ class Copo_com_canudo(Copo):
         self.cor_do_canudo = cor_do_canudo
 
 copo1 = Copo(250)
-
 copo1.encher(100)
-
- 
-
 copo2 = Copo_com_canudo(200, "vermelho")
-
 copo2.encher(250)
 
 # aqui deve aparecer a mensagem “Este volume excede a capacidade do copo.”
